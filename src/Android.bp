@@ -8,6 +8,5 @@ python_library {
     srcs: ["jinja2/*.py"],
     libs: [
         "py-markupsafe",
-        "py-setuptools",
     ],
 }
